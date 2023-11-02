@@ -12,9 +12,10 @@
     },
     "vscode": {
       "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
-      ]
+		"ms-toolsai.jupyter",
+		"ms-python.python",
+		"GitHub.copilot-chat"
+	]
     }
   }
 }
