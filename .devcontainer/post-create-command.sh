@@ -20,6 +20,9 @@ pip install lida[infographics]
 
 # Read Troubleshooting Section For 02-lida.ipynb
 # Let's automate that fix for now
-sudo apt-get install -y liblzma-dev
-pip3 install backports.lzma
-cp .devcontainer/lzma-fix.py /usr/local/python/3.10.8/lib/python3.10/lzma.py
+# ------ Issue does not occur in Python 3.10.13 (latest devcontainer image) ----
+# Commenting these changes out for now (uncomment if you use 3.10.8 and have the issue)
+# sudo apt-get install -y liblzma-dev
+# pip3 install backports.lzma
+# cp .devcontainer/lzma-fix.py /usr/local/python/3.10.8/lib/python3.10/lzma.py
+# -------------------------------------------------------------------------------
