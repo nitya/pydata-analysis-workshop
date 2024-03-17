@@ -1,4 +1,4 @@
-# Python Data Analysis
+# Python Data Analysis | Workshop
 
 ## 1 | Introduction
 
