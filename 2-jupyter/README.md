@@ -14,7 +14,7 @@
 
 ## Do The Exercises
 
-Use this list of notebooks as a suggested set of exercises for this stage. 
+Use this list of notebooks as a suggested set of exercises for this stage. Note that the first three notebooks are _standard examples_ from the  [codespaces-jupyter](https://github.com/github/codespaces-jupyter) template and associate with [specific `requirements.txt` versions](https://github.com/github/codespaces-jupyter/blob/main/requirements.txt) that we may update for our own projects in future. If so, the sample notebooks may break and need to be updated, or replaced, with examples that reflect latest versions.
 
 Use the "exercise" notebook as a sandbox where you can copy code from various quickstarts, run it, and write down your insights in an associated markdown (docs) cell. _Make sure you attribute data and honor license or usage requirements_. Create a recipe book you can revisit later, to recall solutions.
 
