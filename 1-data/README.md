@@ -27,29 +27,3 @@ Where requested, please ensure you provide the appropriate attributions to the o
 |:---|:---|
 | [titanic3.csv](./titanic3.csv)| Data obtained from http://hbiostat.org/data courtesy of the Vanderbilt University Department of Biostatistics. Please read the [Titanic Data](https://hbiostat.org/data/repo/titanic) page for details on dataset creation. |
 | | |
-
-<br/>
-
-## 04 | Open Datasets (#14DaysOfDataScience)
-
-### What You Learn
-- What is Exploratory Data Analysis (EDA)?
-- Explore Datasets on Kaggle.
-- Explore Datasets on Hugging Face.
-- Explore Datasets on Microsoft Azure
-
-### Read the Post
-
-[Check out Day 4 of #14DaysOfDataScience](https://30daysof.github.io/data-science-day/week-2/4-open-datasets/) for a post on this topic. Then revisit this page regularly for updates on exercises.
-
-![Read The Post](https://30daysof.github.io/data-science-day/_astro/DatatScienceDay-DevTools-4.15kWPLtO_Z9m8Wk.webp)
-
-### Do The Exercises
-
-Use this list of notebooks as a suggested set of exercises for this stage. 
-
-| Notebook | Description |
-| --- | --- |
-| | |
-| | |
-
